@@ -60,7 +60,7 @@ html {
 /* Mobile low 2 */
 @media (max-width: 380px) {
     .number {
-        line-height: 80px;
+        line-height: 100px;
         font-size: 1.3rem;
     }
 }
@@ -68,7 +68,7 @@ html {
 /* Mobile low 3 */
 @media (max-width: 355px) {
     .number {
-        line-height: 80px;
+        line-height: 100px;
         font-size: 1.2rem;
     }
 }
