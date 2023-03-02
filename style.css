@@ -36,7 +36,39 @@ html {
 /* Mobile */ 
 @media (max-width: 740px) {
     .number {
+        line-height: 100px;
+        font-size: 2rem;
+    }
+}
+
+/* Mobile low */
+@media (max-width: 550px) {
+    .number {
+        line-height: 90px;
+        font-size: 1.5rem;
+    }
+}
+
+/* Mobile low 1 */
+@media (max-width: 420px) {
+    .number {
         line-height: 90px;
         font-size: 1.4rem;
+    }
+}
+
+/* Mobile low 2 */
+@media (max-width: 380px) {
+    .number {
+        line-height: 80px;
+        font-size: 1.3rem;
+    }
+}
+
+/* Mobile low 3 */
+@media (max-width: 360px) {
+    .number {
+        line-height: 80px;
+        font-size: 1.2rem;
     }
 }
