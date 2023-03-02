@@ -24,3 +24,19 @@ html {
     margin: 10px;
     line-height: 170px;
 }
+
+/* tablet */
+@media (min-width: 740px) and (max-width: 1023px) {
+    .number {
+        line-height: 130px;
+        font-size: 2.5rem;
+    }
+}
+
+/* mobile */ 
+@media (max-width: 740px) {
+    .number {
+        line-height: 90px;
+        font-size: 1.5rem;
+    }
+}
