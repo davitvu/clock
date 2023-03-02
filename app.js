@@ -1,7 +1,7 @@
 
 function updateTimer() {
     var now = new Date();
-    var end = new Date("July 1, 2023");
+    var end = new Date("June 20, 2023");
 
     var timeDiff = end.getTime() - now.getTime();
 
