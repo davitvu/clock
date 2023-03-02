@@ -66,7 +66,7 @@ html {
 }
 
 /* Mobile low 3 */
-@media (max-width: 360px) {
+@media (max-width: 355px) {
     .number {
         line-height: 80px;
         font-size: 1.2rem;
