@@ -31,44 +31,68 @@ html {
         line-height: 130px;
         font-size: 2.5rem;
     }
+
+    h1 {
+        padding-top: 70px;
+    }
 }
 
 /* Mobile */ 
 @media (max-width: 740px) {
     .number {
-        line-height: 100px;
+        line-height: 140px;
         font-size: 2rem;
+    }
+
+    h1 {
+        padding-top: 80px;
     }
 }
 
 /* Mobile low */
 @media (max-width: 550px) {
     .number {
-        line-height: 90px;
+        line-height: 120px;
         font-size: 1.5rem;
+    }
+
+    h1 {
+        padding-top: 100px;
     }
 }
 
 /* Mobile low 1 */
 @media (max-width: 420px) {
     .number {
-        line-height: 90px;
+        line-height: 120px;
         font-size: 1.4rem;
+    }
+
+    h1 {
+        padding-top: 120px;
     }
 }
 
 /* Mobile low 2 */
 @media (max-width: 380px) {
     .number {
-        line-height: 100px;
+        line-height: 140px;
         font-size: 1.3rem;
+    }
+
+    h1 {
+        padding-top: 120px;
     }
 }
 
 /* Mobile low 3 */
 @media (max-width: 355px) {
     .number {
-        line-height: 100px;
+        line-height: 120px;
         font-size: 1.2rem;
+    }
+
+    h1 {
+        padding-top: 140px;
     }
 }
